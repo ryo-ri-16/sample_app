@@ -3,17 +3,17 @@ current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3
 creating Makefile
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-7dfeit sitelibdir\=./.gem.20250724-17256-7dfeit clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-8dtamr sitelibdir\=./.gem.20250803-29181-8dtamr clean
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-7dfeit sitelibdir\=./.gem.20250724-17256-7dfeit
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-8dtamr sitelibdir\=./.gem.20250803-29181-8dtamr
 compiling cruby.c
 linking shared-object skiptrace/internal/cruby.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.2'
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-7dfeit sitelibdir\=./.gem.20250724-17256-7dfeit install
-/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20250724-17256-7dfeit/skiptrace/internal
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-8dtamr sitelibdir\=./.gem.20250803-29181-8dtamr install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20250803-29181-8dtamr/skiptrace/internal
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-7dfeit sitelibdir\=./.gem.20250724-17256-7dfeit clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-8dtamr sitelibdir\=./.gem.20250803-29181-8dtamr clean

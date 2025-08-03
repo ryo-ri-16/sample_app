@@ -26,10 +26,10 @@ checking for Random.bytes... yes
 creating Makefile
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/puma-6.6.0/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-kc2xln sitelibdir\=./.gem.20250724-17256-kc2xln clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-ouzlv4 sitelibdir\=./.gem.20250803-29181-ouzlv4 clean
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/puma-6.6.0/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-kc2xln sitelibdir\=./.gem.20250724-17256-kc2xln
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-ouzlv4 sitelibdir\=./.gem.20250803-29181-ouzlv4
 compiling http11_parser.c
 compiling mini_ssl.c
 compiling puma_http11.c
@@ -37,8 +37,8 @@ linking shared-object puma/puma_http11.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.2'
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/puma-6.6.0/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-kc2xln sitelibdir\=./.gem.20250724-17256-kc2xln install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20250724-17256-kc2xln/puma
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-ouzlv4 sitelibdir\=./.gem.20250803-29181-ouzlv4 install
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20250803-29181-ouzlv4/puma
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/puma-6.6.0/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-kc2xln sitelibdir\=./.gem.20250724-17256-kc2xln clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-ouzlv4 sitelibdir\=./.gem.20250803-29181-ouzlv4 clean

@@ -3,17 +3,17 @@ current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3
 creating Makefile
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-qs38sa sitelibdir\=./.gem.20250724-17256-qs38sa clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-yf3ksk sitelibdir\=./.gem.20250803-29181-yf3ksk clean
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-qs38sa sitelibdir\=./.gem.20250724-17256-qs38sa
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-yf3ksk sitelibdir\=./.gem.20250803-29181-yf3ksk
 compiling websocket_mask.c
 linking shared-object websocket_mask.bundle
 ld: warning: ignoring duplicate libraries: '-lruby.3.2'
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-qs38sa sitelibdir\=./.gem.20250724-17256-qs38sa install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250724-17256-qs38sa
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-yf3ksk sitelibdir\=./.gem.20250803-29181-yf3ksk install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250803-29181-yf3ksk
 
 current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20250724-17256-qs38sa sitelibdir\=./.gem.20250724-17256-qs38sa clean
+make DESTDIR\= sitearchdir\=./.gem.20250803-29181-yf3ksk sitelibdir\=./.gem.20250803-29181-yf3ksk clean
