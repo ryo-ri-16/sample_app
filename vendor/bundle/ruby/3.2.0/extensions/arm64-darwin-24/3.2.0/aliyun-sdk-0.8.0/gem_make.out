@@ -1,0 +1,20 @@
+current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/aliyun-sdk-0.8.0/ext/crcx
+/Users/141421356u/.rbenv/versions/3.2.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make DESTDIR\= sitearchdir\=./.gem.20250806-4359-r1yjhu sitelibdir\=./.gem.20250806-4359-r1yjhu clean
+
+current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make DESTDIR\= sitearchdir\=./.gem.20250806-4359-r1yjhu sitelibdir\=./.gem.20250806-4359-r1yjhu
+compiling crc64_ecma.c
+compiling crcx.c
+linking shared-object aliyun/crcx.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make DESTDIR\= sitearchdir\=./.gem.20250806-4359-r1yjhu sitelibdir\=./.gem.20250806-4359-r1yjhu install
+/usr/bin/install -c -m 0755 crcx.bundle ./.gem.20250806-4359-r1yjhu/aliyun
+
+current directory: /Users/141421356u/environment/sample_app/vendor/bundle/ruby/3.2.0/gems/aliyun-sdk-0.8.0/ext/crcx
+make DESTDIR\= sitearchdir\=./.gem.20250806-4359-r1yjhu sitelibdir\=./.gem.20250806-4359-r1yjhu clean
