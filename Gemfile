@@ -6,7 +6,7 @@ ruby "3.2.8"
 
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 8.0.2"
+gem "rails", "~> 8.1.0"
 gem 'bcrypt',         '3.1.12'
 gem 'faker', '2.22'
 gem 'kaminari'
